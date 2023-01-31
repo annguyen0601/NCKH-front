@@ -1,0 +1,34 @@
+#generateForm {
+    /* border: 1px solid black; */
+    width: 1200px;
+    margin: auto;
+    display: inline-block;
+    margin-bottom: 55px;
+}
+
+#text {
+    margin: 1px;
+}
+
+#questionsBox {
+    max-width: 1200px;
+    display: inline-block;
+    text-align: left;
+}
+
+/* 
+.questionBox{
+    text-align: left;
+    margin-bottom: 10px;
+    padding-bottom: 50px;
+} */
+
+.answerBox {
+    margin-bottom: 5px;
+    margin-left: 15px;
+    width: 500px;
+}
+
+.approveBtn {
+    width: 200px;
+}
